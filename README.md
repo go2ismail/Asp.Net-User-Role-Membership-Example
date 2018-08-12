@@ -22,7 +22,7 @@ Asp.Net Core Mvc Full Implementation Example of User Role &amp; Membership.
 
 # Development Tools & Environment
 
-- **Visual Studio 2017 (Community Edition)** 
+- **Visual Studio 2017 (Community Edition)**. (https://visualstudio.microsoft.com/) 
 - **Syncfusion JQuery Controls EJ1 (Community Edition)**. (https://www.syncfusion.com/products/communitylicense)
 
 
