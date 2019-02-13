@@ -28,7 +28,7 @@ Asp.Net Core Mvc Full Implementation Example of User Role &amp; Membership.
 
 
 # Supported by CodeRush.Co
-[CodeRush.CO] source code collections (https://coderush.co)
+[CodeRush.CO] source code collections (https://coderush.co). 50% Off All Products, Use Discount Code **GITHUB50**
 
 
 
